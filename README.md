@@ -49,7 +49,7 @@ The Teacher Payout Smart Contract serves as a foundation for a comprehensive edu
 ## Contract Address
 
 **Network**: Stacks Mainnet/Testnet  
-**Contract Address**: ` ST3FP3T70SCH7FWAF6ZK5TEMMZZJXN13M45NZ60HW.TeacherPayoutbe `
+**Contract Address**: ` ST3FP3T70SCH7FWAF6ZK5TEMMZZJXN13M45NZ60HW.TeacherPay`
 <img width="1483" height="827" alt="image" src="https://github.com/user-attachments/assets/9b5aee33-ea5c-45a2-a634-f0118c71c5a1" />
 
 ### Deployment Information:
